@@ -1,0 +1,12 @@
+const works=[
+{id:'we-owe',title:'We owe each other everything',year:'2026',medium:'Oil and acrylic, ink jet print on canvas, image transfers, receipts, hair, ash, on silk, canvas and wood panel in aluminum and wood artists frames.',dimensions:'60 × 96 inches',images:['Thomas_K_#1 .jpg'],alt:'An assemblage of painted and photographic panels in rectangular, circular, triangular and polygonal frames.'},
+{id:'opacity',title:'Opacity #1, The Black Swan Theory vs The Rooster',year:'2026',medium:'Acrylic oil, ink, and paint skins on found wood.',dimensions:'48 × 72 inches',images:['Opacity # 1, The Black Swan Theory vs The Rooster jpg.jpg'],alt:'Layered pink, black, blue and grey abstract forms across a wide painted panel.'},
+{id:'home',title:'Home',year:'2025',medium:'Image transfers, steel, found plastic, wire, acrylic paint, found pillows, used sleeping bag and duct tape.',dimensions:'7 ft × 5 ft × 4 ft · Dimensions variable',images:['Thomas_K_#7.jpg','Thomas_K_#8.jpg'],alt:'A shelter-like installation with car imagery on translucent material, curved supports and a sleeping bag.'},
+{id:'motherboard',title:'Motherboard: A New World Awaits You',year:'2026',medium:'Aircraft chair, wooden spool, steel wire, plexiglass, foam clay wood, acrylic paint, projection.',dimensions:'6 ft × 4 ft × 4 ft',images:['Thomas_K_#9.jpg','Thomas_K_#10.jpeg'],alt:'A sculptural installation with a wire-wrapped spool, radiating metal arms and a translucent painted central box.'},
+{id:'marveling',title:'Marveling At The Work',year:'2026',medium:'Oil and acrylic on canvas',dimensions:'36 × 48 inches',images:['Thomas_K_#13.jpg'],alt:'A painting of a cut-away aircraft fuselage with a small standing figure.'}
+];
+
+works[0].description='This multi-panel work combines painting and photography to question citizenship in a world shaped by individualism.';
+works[1].description='Layers of ink, acrylic, oil, paint skins and image transfers place translucent, transparent and opaque forms in tension. The artist connects this interplay to the idea of an unforeseen, consequential event.';
+works[2].description='Drawing on the artist’s experience of living in a vehicle, this sculpture combines the forms of a car and a camping tent. It considers shelter, the body, and the proximity of privilege to poverty.';
+works[3].description='A kinetic sculpture and expanded installation informed by the artist’s research into Boxtown in South Memphis. Rotating forms and projected video examine the promises of technology alongside environmental injustice.';
